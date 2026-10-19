@@ -1,0 +1,2 @@
+BELUM DI-DEPLOY / BELUM DIVERIFIKASI
+Setelah dashboard berhasil dipublikasikan di Streamlit Community Cloud, ganti seluruh isi berkas ini dengan URL publik aplikasi yang benar, misalnya https://nama-aplikasi.streamlit.app
