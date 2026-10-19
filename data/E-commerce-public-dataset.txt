@@ -1,2 +1,2 @@
-**Google Drive:** https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view
-**Kaggle:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Google Drive: https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view
+Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
