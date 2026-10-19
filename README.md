@@ -35,50 +35,50 @@ submission/
 # Setup Environment ✨
 
 ## Setup Environment — Anaconda
-'''
+```
 conda create --name olist-analytics python=3.12 -y
 conda activate olist-analytics
 pip install -r requirements.txt
-'''
+```
 
 ## Setup Environment — Shell/Terminal
-'''
+```
 Pastikan Python 3.12 dan pip sudah terpasang.
 
-mkdir olist-ecommerce-analytics
-cd olist-ecommerce-analytics
+    mkdir olist-ecommerce-analytics
+    cd olist-ecommerce-analytics
 
 Tempatkan file proyek beserta requirements.txt ke dalam direktori proyek, lalu jalankan:
 
-python -m venv .venv
+    python -m venv .venv
 
 Aktifkan virtual environment.
 
 Windows:
 
-.venv\Scripts\activate
+    .venv\Scripts\activate
 
 macOS/Linux:
 
-source .venv/bin/activate
+    source .venv/bin/activate
 
 Instal dependensi:
 
-pip install -r requirements.txt
-'''
+    pip install -r requirements.txt
+```
 
 ## Run Streamlit App
-'''
+```
 Dari root direktori proyek, jalankan:
 
-streamlit run dashboard/dashboard.py
-'''
+    streamlit run dashboard/dashboard.py
+```
 
 ## Menjalankan ulang notebook
-'''
+```
 Buka `notebook.ipynb` dengan Jupyter, VS Code, atau Google Colab dari root proyek, lalu jalankan seluruh sel secara berurutan. Notebook membaca `data/*.csv` menggunakan path relatif terhadap root proyek dan menulis `dashboard/main_data.csv`.
 
-'''
+```
 ## Isi dashboard
 
 | Tab | Isi |
